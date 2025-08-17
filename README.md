@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Example sections for you:<br><br>👋 Hi, I’m Arya Dileep Kumar<br><br>🎓 Integrated M.Tech in AI @ VIT Bhopal University (2021–2026)<br><br>🤖 Passionate about Generative AI, Agentic Automation, and RAG systems<br><br>🔬 Projects:<br><br>Alzheimer’s Biomedical RAG System – [Repo Link]<br><br>AI-Driven Therapy Bot – (to be added)<br><br>Guest Recommendation Agent – [Repo Link]<br><br>📈 Interests: Multi-modal LLMs, NLP, Distributed AI Systems<br><br>📫 Reach me at: [Email] | [LinkedIn]<br><br>We can even add badges (Python, LangChain, HuggingFace, TensorFlow, PyTorch, etc.) and GitHub stats.
+Example sections for you:<br><br>👋 Hi, I’m Arya Dileep Kumar<br><br>🎓 Integrated M.Tech in AI @ VIT Bhopal University (2021–2026)<br><br>🤖 Passionate about Generative AI, Agentic Automation, and RAG systems<br><br>🔬 Projects:<br><br>Alzheimer’s Biomedical RAG System <br><br>AI-Driven Therapy Bot <br><br>Guest Recommendation Agent<br><br>📈 Interests: Multi-modal LLMs, NLP, Distributed AI Systems<br><br>📫 Reach me at: [Email] | [LinkedIn]<br><br>We can even add badges (Python, LangChain, HuggingFace, TensorFlow, PyTorch, etc.) and GitHub stats.
 
 
 ## 🌐 Socials:
